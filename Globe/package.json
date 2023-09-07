@@ -23,7 +23,8 @@
     "react-native-screens": "~3.22.0",
     "styled-components": "^6.0.7",
     "react-native-web": "~0.19.6",
-    "@expo/webpack-config": "^19.0.0"
+    "@expo/webpack-config": "^19.0.0",
+    "@expo/vector-icons": "^13.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
